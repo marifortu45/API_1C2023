@@ -87,7 +87,7 @@ En la siguiente imagén podemos ver las dos estructuras que serán utilizadas en
 
 ![Estructuras](./img/Estructuras.png)
 
-# Documentacion-de-postman
+# Documentacion de postman
 
 Se proporciona un enlace a la documentación proporcionada a traves de PostMan para los endpoints utilizados por el proyecto.
 
