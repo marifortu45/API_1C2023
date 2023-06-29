@@ -90,3 +90,5 @@ En la siguiente imagén podemos ver las dos estructuras que serán utilizadas en
 # Documentacion-de-postman
 
 Se proporciona un enlace a la documentación proporcionada a traves de PostMan para los endpoints utilizados por el proyecto.
+
+https://documenter.getpostman.com/view/28169914/2s93z9chsk
