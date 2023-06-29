@@ -2,7 +2,7 @@
 
 # Tabla de Contenidos
 
-1. [Integrantes](#integrantes)
+1. [Integrantes](#integrante)
 2. [Introduccion](#introduccion)
 3. [Requerimientos](#requerimientos)
 4. [Instalacion](#instalacion)
@@ -10,7 +10,7 @@
 6. [Estructuras](#estructuras)
 7. [Documentacion de Postman](#documentacion-de-postman)
 
-#Integrante
+# Integrante
 
 ## Mariano Fortunato Rossi - 1135771
 
@@ -18,14 +18,14 @@
 
 En el presente documento se proporcionara una lista de detalles sobre la implementación de una aplicación web que permitira a los clientes gestionar el portfolio de un profesional de sistemas utilizando las herramientas aprendidas durante la cursada de la materia 'Aplicaciones interactivas'. Se hará mención de las tecnologias seleccionadas para la elaboración del proyecto junto con la funcionalidad ofrecida y los requerimientos necesarios para garantizar el correcto funcionamiento de los servicios de manera local.
 
-#Requerimientos
+# Requerimientos
 
 Para poder instalar y utilizar la aplicacion web se necesitara lo siguiente:
 Frontend: lenguajes y librerías de HTML/CSS, React, JavaScript y NodeJS.
 Backend: lenguajes y librerías en JavaScript , NodeJS y Mongoose.
 Base de datos: NoSQL en MongoDB.
 
-#Instalacion
+# Instalacion
 
 ## Instalación para el BackEnd
 
@@ -50,43 +50,43 @@ Si la ejecución resulta correcta, se abrirá un navegador donde podremos ver la
 ![Pagina inicio](./img/Home.png)
 
 
-#Funcionalidades
+# Funcionalidades
 
-##Portfolio
+## Portfolio
 
 La aplicación permite al profesional mostrar la siguiente información:
-*Acerca de mi
-*Experiencia laboral
-*Educacion
-*Conocimientos
-*Contacto
+* Acerca de mi
+* Experiencia laboral
+* Educacion
+* Conocimientos
+* Contacto
 
 Adicionalmente, se le permite al mismo la funcionalidad para iniciar sesion y/o registrarse dentro de la seccion:
-*Iniciar sesion
+* Iniciar sesion
 
 ![Menu de opciones](./img/Menu.png)
 
-##Contacto
+## Contacto
 
 Se le permite a los reclutadores interesados en el perfil del usuario a traves del formulario de contacto completando los siguientes datos:
 
-*Nombre y apellido
-*Dirección email
-*Teléfono de contacto
-*Mensaje
+* Nombre y apellido
+* Dirección email
+* Teléfono de contacto
+* Mensaje
 
 ![Formulario de contacto](./img/Contacto.png)
 
-##Visualización de contactos interesados
+## Visualización de contactos interesados
 
 El sistema permite al profesional consultar las personas que quieren contactarse. Para ello el sistema ofrece una pantalla en donde el profesional deberá autenticarse y, una vez que la sesion es validada, se le mostrará una tabla con los contactos y sus respectivos mensajes.
 
-#Estructuras
+# Estructuras
 
 En la siguiente imagén podemos ver las dos estructuras que serán utilizadas en el servicio para proporcionar la funcionalidad de inicio de sesion y envio y consulta de mensajes.
 
 ![Estructuras](./img/Estructuras.png)
 
-#Documentacion-de-postman
+# Documentacion-de-postman
 
 Se proporciona un enlace a la documentación proporcionada a traves de PostMan para los endpoints utilizados por el proyecto.
