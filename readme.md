@@ -14,7 +14,7 @@
 
 ## Mariano Fortunato Rossi - 1135771
 
-#Introduccion
+# Introduccion
 
 En el presente documento se proporcionara una lista de detalles sobre la implementación de una aplicación web que permitira a los clientes gestionar el portfolio de un profesional de sistemas utilizando las herramientas aprendidas durante la cursada de la materia 'Aplicaciones interactivas'. Se hará mención de las tecnologias seleccionadas para la elaboración del proyecto junto con la funcionalidad ofrecida y los requerimientos necesarios para garantizar el correcto funcionamiento de los servicios de manera local.
 
