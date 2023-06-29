@@ -21,9 +21,9 @@ En el presente documento se proporcionara una lista de detalles sobre la impleme
 # Requerimientos
 
 Para poder instalar y utilizar la aplicacion web se necesitara lo siguiente:
-Frontend: lenguajes y librerías de HTML/CSS, React, JavaScript y NodeJS.
-Backend: lenguajes y librerías en JavaScript , NodeJS y Mongoose.
-Base de datos: NoSQL en MongoDB.
+* Frontend: lenguajes y librerías de HTML/CSS, React, JavaScript y NodeJS.
+* Backend: lenguajes y librerías en JavaScript , NodeJS y Mongoose.
+* Base de datos: NoSQL en MongoDB.
 
 # Instalacion
 
