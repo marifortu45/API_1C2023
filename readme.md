@@ -77,13 +77,17 @@ Se le permite a los reclutadores interesados en el perfil del usuario a traves d
 
 ![Formulario de contacto](./img/Contacto.png)
 
-## Visualización de contactos interesados
-
-El sistema permite al profesional consultar las personas que quieren contactarse. Para ello el sistema ofrece una pantalla en donde el profesional deberá autenticarse y, una vez que la sesion es validada, se le mostrará una tabla con los contactos y sus respectivos mensajes. La duración de la sesion sera de 1 (una) hora y luego el token (JWT) de acceso expirará, invalidando la sesion en curso. 
+## Inicio de sesion
 
 Se le permitira al usuario registrar su cuenta en caso de que no exista ninguna creada (solo se permite una cuenta) y, a partir de entonces, solo se le mostrara la opcion de 'Ingreso'.
 
 ![Login](./img/Login.png)
+
+## Visualización de contactos interesados
+
+El sistema permite al profesional consultar las personas que quieren contactarse. Para ello el sistema ofrece una pantalla en donde el profesional deberá autenticarse y, una vez que la sesion es validada, se le mostrará una tabla con los contactos y sus respectivos mensajes. La duración de la sesion sera de 1 (una) hora y luego el token (JWT) de acceso expirará, invalidando la sesion en curso. 
+
+![Tabla-de-mensajes](./img/Mensajes.png)
 
 # Estructuras
 
